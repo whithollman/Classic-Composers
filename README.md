@@ -60,4 +60,4 @@ To set up the analysis environment, run:
 
 bash
 pip install pandas seaborn matplotlib altair
-License This project is licensed under the BSD3-CLAUSE
+License This project is licensed under the BSD-3-CLAUSE
